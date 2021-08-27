@@ -1,11 +1,10 @@
-import React, { useEffect, useState } from 'react';
-import './App.css';
-import Tmdb from './tmdb';
-import MovieRow from './components/MovieRow';
+import React, { useEffect, useState } from "react";
+import "./App.css";
+import Tmdb from "./tmdb";
+import MovieRow from "./components/MovieRow";
 
 // eslint-disable-next-line import/no-anonymous-default-export
-export default() => {
-
+export default () => {
   const [movieList, setMovieList] = useState([]);
 
   useEffect(() => {
@@ -14,10 +13,9 @@ export default() => {
       let list = await Tmdb.getHomeList();
       console.log(list);
       setMovieList(list);
-    }
+    };
 
     loadAll();
-
   }, []);
 
   return (
@@ -29,4 +27,4 @@ export default() => {
       </section>
     </div>
   );
-}
+};
