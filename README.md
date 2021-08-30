@@ -3,7 +3,7 @@
 Netflix clone app
 </h1>
 
-<p align="center">Um web app clone do Netflix feito em ReactJS, utiliza a API do IDMB para obtenção e manipulação de dados como séries, filmes, poster, resumo e pontuação
+<p align="center">Um web app clone do Netflix feito em ReactJS, utiliza a API do IDMB para obtenção e manipulação de dados como séries, filmes, poster, resumo e pontuação.
 </p>
 
 ## 📃 Sobre o projeto
@@ -14,11 +14,13 @@ Este projeto faz parte do meu potfólio pessoal, qualquer feedback sobre estrutu
 
 Sinta-se livre para dar um fork, ou enviar um pull request, você pode usar este projeto para estudar ou fazer melhorias!
 
+
 ## 🛠 Tecnologias utilizadas
 
 - ⚛ **React** - Single page application
 
-### 🖥 Rodando o front-end
+
+## 🖥 Rodando o front-end
 
 Caso já tenha clonado o repositório basta pular a primeira etapa
 
