@@ -8,7 +8,7 @@ Netflix clone app
 
 ## 📃 Sobre o projeto
 
-Desenvolvido para práticar ReactJS e API Rest
+Desenvolvido para praticar ReactJS e API Rest
 
 Este projeto faz parte do meu potfólio pessoal, qualquer feedback sobre estrutura, código ou funcionalidades que podem melhorar o projeto serão bem vindos.
 
