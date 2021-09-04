@@ -1,6 +1,6 @@
 {
   "name": "netflix-clone",
-  "homepage": "https://luanargolodev.github.io/netflix-clone",
+  "homepage": "https://luanargolodev.github.io/react-netflix",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
